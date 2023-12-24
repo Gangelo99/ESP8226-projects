@@ -54,4 +54,4 @@ This if statement is executed when the difference between `millis()` _(current t
 
 ### Multiple_Led_Button.cpp
 Project in which buttons of certain color light the LED of that specific color.
-![](https://github.com/Gangelo99/ESP8266-projects/blob/main/gif/Multiple_Led_Button.gif)
+<img src="https://github.com/Gangelo99/ESP8266-projects/blob/main/gif/Multiple_Led_Button.gif" width="35%" height="35%"/>
