@@ -2,7 +2,13 @@
 # ESP8266 Projects
 Some littles projects for ESP8266 made with PlatformIO.
 
-## Led_Button.cpp
+## Appendix
+Table of contents:
+- [Led Button](https://github.com/Gangelo99/ESP8266-projects#led_buttoncpp)
+- [Multiple_Led_Button.cpp](https://github.com/Gangelo99/ESP8266-projects#multipled_led_buttoncpp)
+
+
+### Led_Button.cpp
 First _(dumb)_ project in which a led blink when a button is pressed. 
 
 In this project I decided to avoid the use of the `delay()` function to start practicing through `millis()` functions.
@@ -44,3 +50,8 @@ These variables are used to avoid false positives caused by rebounds of the butt
 `if ((millis() - lastDebounceTime) > debounceDelay && reading != buttonState)` 
 
 This if statement is executed when the difference between `millis()` _(current time of the program's execution)_ and `lastDebounceTime` is greather than `debounceDelay` and the reading state is different of the current button State _`(buttonState)`_.
+
+
+### Multiple_Led_Button.cpp
+Project in which buttons of certain color light the LED of that specific color.
+![](https://im3.ezgif.com/tmp/ezgif-3-1ece2dbcb3.gif)
