@@ -7,7 +7,8 @@ Some littles projects for ESP8266 made with PlatformIO.
 
 Table of contents:
 - [Led Button](https://github.com/Gangelo99/ESP8266-projects#led_buttoncpp)
-- [Multiple_Led_Button.cpp](https://github.com/Gangelo99/ESP8266-projects#multipled_led_buttoncpp)
+- [Multiple_Led_Button.cpp](https://github.com/Gangelo99/ESP8266-projects/tree/main#multiple_led_buttoncpp)
+- [Multipled Led Button OOP](https://github.com/Gangelo99/ESP8266-projects/tree/main#multipled-led-button-oop)
 
 
 ## Led_Button.cpp
