@@ -9,8 +9,8 @@ const char* ssid = "wifi";
 const char* password = "password";
 
 //Setup
-#define BOTtoken "6705920992:AAFVOSVhtfRlzr_CmyrL4h2Fzgrjq_iJK_k"  // @ESP8266_ang_bot
-#define CHAT_ID "40234663" // Token taken from @myidbot
+#define BOTtoken "Bot token from bot father"  // @ESP8266_ang_bot
+#define CHAT_ID "chat id" // Token taken from @myidbot
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 
